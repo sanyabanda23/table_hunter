@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: aisqlite
+Version: 1.1.0
+Summary: AI enhanced SQLite
+Home-page: https://github.com/raydelvecchio/aisql
+Author: Ray Del Vecchio
+Author-email: ray@cerebralvalley.ai
+Requires-Dist: setuptools
+Requires-Dist: twine
+Requires-Dist: openai
+Requires-Dist: wheel
+

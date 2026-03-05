@@ -1,0 +1,3 @@
+[console_scripts]
+tuna = tuna.cli:main
+
